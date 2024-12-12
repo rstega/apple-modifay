@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
      <Carousel/> 
+     <div><p>suck on thsi </p></div>
     </div>
   );
 }
